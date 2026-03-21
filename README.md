@@ -1,5 +1,29 @@
 # DM2008 — Programming for Interaction
 
+This is my personal coursework repository for **DM2008: Programming for Interaction**
+ at Nanyang Technological University.
+
+It contains the original teaching materials provided by the course instructor Kapi, as well as my own assignments and projects completed throughout the semester. The teaching materials are kept as a reference alongside my work so everything stays in one place.
+
+## My Work (Let's CODE at ADM!)
+
+**`01-activities/`**
+Weekly p5.js activity submissions from weeks 01 through 05. Each folder includes my sketch files along with screenshots or short recordings of the results.
+
+**`02-mini-project/`**
+A small game built with p5.js. Work in progress — updates coming soon.
+
+**`03-coding-jam/`**
+Submissions from the coding jam sessions, which involve physical interaction using Arduino. Details to follow.
+
+**`04-final-project/`**
+My final project for the course. To be updated as the semester progresses.
+
+---
+
+
+## Course Materials (from Kapi)
+
 This repository contains all materials, templates, and examples for **DM2008: Programming for Interaction**.  
 It serves as the single reference point for in-class activities, demos, and code templates throughout the semester.
 
